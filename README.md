@@ -1,0 +1,1 @@
+# vagrant_plugins_vagrant-cachier
